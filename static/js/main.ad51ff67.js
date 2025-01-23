@@ -14409,7 +14409,7 @@
         we =
           (n.p, n.p + "static/media/animated_case100.96ae383e1310a5350321.gif"),
         ke = n.p + "static/media/animated_slices.49642cd558c6ca6bee28.gif",
-        Se = (n.p, n.p + "static/media/LDC_2D.1f73861227efabe323b2.png"),
+        Se = (n.p, n.p + "static/media/Nine_Samples.png"),
         Ae = n.p + "static/media/NS_LDC.0d2ee4d8acce4029cdda.gif",
         Te = n.p + "static/media/NS_ColorBar.702786aec041bbd69920.png",
         ze = n.p + "static/media/LDC_3D.662efe8f23508b7f3d01.png",
@@ -14445,7 +14445,7 @@
                               fontFamily: "Times New Roman",
                             },
                             children:
-                              "Scenario 1: 2D lid-driven cavity (pure Navier-Stokes)",
+                              "Nine examples of maize plant point clouds from the dataset",
                           }),
                         }),
                         (0, be.jsx)("br", {}),
@@ -14471,7 +14471,7 @@
                             fontFamily: "Times New Roman",
                           },
                           children:
-                            "Boundary conditions in pure Navier-Stokes LDC simulations.",
+                            "Nine examples of maize plant point clouds from the dataset, showcasing the original data.These images highlight the diverse morphologies of maize plants captured using terrestrial laser scanning.",
                         }),
                         (0, be.jsx)("br", {}),
                         (0, be.jsx)("br", {}),
